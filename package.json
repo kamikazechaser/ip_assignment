@@ -18,7 +18,6 @@
   "homepage": "https://github.com/kamikazechaser/ip_assignment#readme",
   "dependencies": {
     "rangi": "^1.0.2",
-    "readline-sync": "^1.4.10",
     "ws": "^7.2.0"
   }
 }
